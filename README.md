@@ -41,6 +41,11 @@ Follow these steps for completing your project.
 
 ### STEP 1 & 2 - Adding Team Scores to the Component's State
 
+
+///////////PICK UP HERE AFTER THE PULL REQUEST///////////
+
+
+
 - Import the `useState` hook
 - Set up the state values for the Lions team score using the state hook
 
